@@ -32,6 +32,8 @@ This is a directory of tutorials and open-source code repositories for working w
 - [Five simple examples of the Keras Functional API](http://www.puzzlr.org/the-keras-functional-api-five-simple-examples/)
 - [Keras video tutorials playlist from Deeplizard](https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 
+## Videos
+
 ## Books based on Keras
 
 - [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
